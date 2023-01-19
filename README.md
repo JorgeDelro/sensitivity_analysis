@@ -1,2 +1,2 @@
-# sensitivity_analysis
-function to perform Bayesian sensitivity analysis
+# Bsyesian sensitivity analysis
+A function to perform Bayesian sensitivity analysis from brms fitted models.
